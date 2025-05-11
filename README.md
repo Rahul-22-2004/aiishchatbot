@@ -1,4 +1,6 @@
 ﻿# aiishchatbot
+ ![aiishcarechatbot](https://github.com/user-attachments/assets/e4b55837-8506-4a24-a74e-e0ba9591fd3a)
+
 # 💬 AIISH CARE ChatBot
 
 This is a simple, stylish, and responsive web-based chatbot UI built using **HTML**, **CSS**, and **JavaScript**. The chatbot is designed to be embedded directly into a website and provides an interactive chat interface.

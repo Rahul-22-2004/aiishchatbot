@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AIISH CARE ChatBot</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="chatbot-icon">💬</div>
+    <div id="chatbot-container" class="hidden">
+      <div id="chatbot-header">
+        <span>AIISH CARE</span>
+        <div>
+          <button id="clear-btn">Clear</button>
+          <button id="close-btn">&times;</button>
+        </div>
+      </div>
+      <div id="chatbot-body">
+        <div id="chatbot-messages"></div>
+        <div id="typing-indicator" class="hidden">Bot is typing...</div>
+      </div>
+      <div id="chatbot-input-container">
+        <input type="text" id="chatbot-input" placeholder="Type a message..." />
+        <button id="send-btn">Send</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
